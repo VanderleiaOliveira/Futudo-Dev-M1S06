@@ -21,6 +21,8 @@ img {
 
 h1, h2 {
     color: black;
+    text-align: center;
+
 }
 
 p {
@@ -28,7 +30,11 @@ p {
 }
 
 footer {
+    background-color: #333 ;
     text-align: center;
-    margin-top: 20px;
-    color: #999;
+    padding: 10px 0;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
